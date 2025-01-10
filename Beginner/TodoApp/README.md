@@ -28,3 +28,6 @@ src/
 AddTodo.tsx
 ```
 **5.Todoitem Component**
+**6.Create the TodoList Component**
+**7.Create the App Component**
+**8. Update the Entry Point**
