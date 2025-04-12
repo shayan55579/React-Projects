@@ -43,32 +43,42 @@ Appt.tsx
 ```bash
 main.tsx
 ```
-🎉 Feature Icing Menu:
-1. ✅ Local Storage (Save Todos)
-Persist todos even after the page reloads
+## 🎉 Feature Icing Menu
 
-Just a few lines using useEffect
-2. 🌙 Dark Mode Toggle
-Switch between light & dark theme
+### 1. ✅ Local Storage (Save Todos)
+- Persist todos even after the page reloads  
+- Just a few lines using `useEffect`
 
-Tailwind or CSS variables work great here
+---
 
-3. ⚡ Smooth Animations
-Add fade/slide effects when todos are added or removed
+### 2. 🌙 Dark Mode Toggle
+- Switch between light & dark theme  
+- Works with plain CSS classes or Tailwind (if using)
 
-Use libraries like framer-motion or simple CSS transitions
+---
 
-4. 🔍 Filter Todos
-Buttons to view: All | Active | Completed
+### 3. ⚡ Smooth Animations
+- Add fade/slide effects when todos are added or removed  
+- Use libraries like `framer-motion` or simple CSS transitions
 
-Keeps your list clean and focused
+---
 
-5. ✏️ Edit Todo
-Click the text to edit in-place
+### 4. 🔍 Filter Todos
+- Buttons to view: **All | Active | Completed**  
+- Keeps your list clean and focused
 
-Update on Enter or blur
+---
 
-6. 🧠 AI Smart Suggestion (fun one)
-Suggest a todo for you randomly:
+### 5. ✏️ Edit Todo
+- Click the text to edit in-place  
+- Updates when you press `Enter` or blur the input field
 
-"Take a 5-minute break" or "Drink some water 💧
+---
+
+### 6. 🧠 AI Smart Suggestion (Fun One!)
+- Suggest a todo for you randomly  
+- Example suggestions:  
+  - _"Take a 5-minute break"_  
+  - _"Drink some water 💧"_
+
+---
