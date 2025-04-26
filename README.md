@@ -1,4 +1,5 @@
 # Todo App✅
+![Project Screenshot](img.png)
 **Create a Vite project with React**
 ```bash
 npm create vite@latest
